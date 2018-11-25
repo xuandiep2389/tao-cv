@@ -1,0 +1,13 @@
+#left{
+    background: #8cff4b;
+    width: 50%;
+    height: 300px;
+    float: left;
+}
+
+#right{
+    background: #ff735b;
+    width: 50%;
+    height: 300px;
+    float: left;
+}
